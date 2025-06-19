@@ -1,6 +1,6 @@
 🚕 OLA Data Analytics Project – Identified the reason & trend for ride cancellation
  Analysis using Power BI
-📌https://https://github.com/AyushmanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation
+📌https://github.com/AyushmanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/tree/main
 
 
 📷 Dashboard Preview
